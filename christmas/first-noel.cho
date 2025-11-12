@@ -1,7 +1,11 @@
-{title: The First Noel, Guitar}
+{title: The First Noel}
+{title-piano: Piano}
 
-{capo: 3}
-{key: A}
+{capo-guitar: 3}
+{key-guitar: A}
+{key-piano: C}
+
+{transpose-piano: +3}
 
 [A2] [E] [D2] [A2]
 

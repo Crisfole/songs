@@ -1,6 +1,6 @@
 include : [ modern1 ]
 
-diagrams.show    : none
+diagrams.show : none
 
 // --- Custom slash-chord fixes ---
 chords : [

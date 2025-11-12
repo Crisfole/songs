@@ -3,8 +3,8 @@
 ../away-in-manger.cho
 ../long-expected-jesus.cho
 ../hear-what-i-hear.cho
-../first-noel-piano.cho
-../first-noel-guitar.cho
+../first-noel.cho
+../first-noel.cho --meta piano=1
 ../god-rest-ye.cho
 # Consider Re-keying Go Tell it on the mountain...
 ../tell-it-mountain.cho
