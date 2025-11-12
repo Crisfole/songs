@@ -1,0 +1,63 @@
+{title: Hark the Herald Angels Sing}
+{title-piano: Piano}
+
+{columns: 2}
+
+{capo-guitar: 2}
+
+{key-guitar: D}
+{key-piano: E}
+
+{transpose-piano: +2}
+
+{start_of_verse label="Verse 1"}
+
+[D]Hark! the herald angels [A]sing,
+[D]"Glory [G]to the [D]new[A]born [D]King:
+[D]peace on earth, and [Bm]mercy [E]mild,
+[F#m]God and [A]sinners [E/G#]recon[A]ciled!" [A]   [A]
+[D]Joyful, all ye [G]nations, [A]rise,
+[D]join the triumph [G]of the [A]skies;
+[G]with angelic [Em]host [B7]pro[Em]claim,
+[A]"Christ is [D]born in [D]Beth[A]le[D]hem!"
+
+{end_of_verse}
+
+{start_of_chorus label="Refrain"}
+
+[G]Hark! the herald [Em]an[B7]gels [Em]sing,
+[A]"Glory [D]to the [D]new[A]born [D]King" [D]  [D]
+
+{end_of_chorus}
+
+{start_of_verse label="Verse 2"}
+
+[D]Christ, by highest heaven a[A]dored,
+[D]Christ, the [G]ever[D]la[A]sting [D]Lord,
+[D]late in time be[Bm]hold him [E]come,
+[F#m]offspring [A]of the [E/G#]Virgin's [A]womb: [A]   [A]
+[D]veiled in flesh the [G]Godhead [A]see;
+[D]hail th'incarnate [G]Dei[A]ty,
+[G]pleased with man as [Em]man [B7]to [Em]dwell,
+[A]Jesus, [D]our Im[D]ma[A]nu[D]el.
+
+{end_of_verse}
+
+{chorus}
+
+{column_break}
+
+{start_of_verse label="Verse 3"}
+
+[D]Hail the heaven-born Prince of [A]Peace!
+[D]Hail the [G]Sun of [D]Righ[A]teous[D]ness!
+[D]Light and life to [Bm]all he [E]brings,
+[F#m]risen with [A]healing [E/G#]in his [A]wings. [A]  [A]
+[D]Mild he lays his [G]glory [A]by,
+[D]born that man no [G]more may [A]die,
+[G]born to raise the [Em]sons [B7]of [Em]earth,
+[A]born to [D]give us [D]se[A]cond [D]birth.
+
+{end_of_verse}
+
+{chorus}

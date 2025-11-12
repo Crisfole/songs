@@ -1,0 +1,69 @@
+// === User Fakebook Config for ChordPro ===
+// Clean two-column printable layout with Avenir fonts.
+
+config.type     : config
+config.title    : "User Fakebook Config"
+config.description     : "Readable two-column PDF output for chord sheets."
+
+instrument.type : "guitar"
+
+// --- General ---
+settings.strict  : true
+settings.columns : 1
+settings.titles  : center
+diagrams.show    : none
+
+// --- Custom slash-chord fixes ---
+chords : [
+    { name: "G/B",  frets: [ x 2 0 0 3 3 ] }
+    { name: "D/F#", frets: [ 2 x 0 2 3 2 ] }
+    { name: "Dm/F", frets: [ x x 3 2 3 1 ] }
+    { name: "Dm/G", frets: [ 3 x 3 2 3 1 ] }
+    { name: "Bm/E", frets: [ 0 2 4 4 3 2 ] }
+    { name: "Bm/D", frets: [ x 5 4 4 3 2 ] }
+    { name: "E/G#", frets: [ 4 x 2 4 0 0 ] }
+]
+
+// --- PDF layout ---
+pdf.columnspace     : 18
+pdf.margintop       : 100
+pdf.marginbottom    : 42
+pdf.marginleft      : 36
+pdf.marginright     : 36
+pdf.headspace       : 64
+pdf.footspace       : 24
+
+pdf.spacing.title   : 1.5
+pdf.spacing.lyrics  : 1.4
+pdf.spacing.chords  : 1.0
+pdf.spacing.empty   : 0.6
+
+// Enable both a sidebar and a label.
+pdf.chorus.tag : "Chorus"
+pdf.chorus.bar.width  : 0
+pdf.chorus.recall.quote      : true
+
+// // --- Page headers/footers ---
+// pdf.formats.default.title   : [ "" "" "" ]
+// pdf.formats.default.footer  : [ "%{title}" "" "%{page}" ]
+// pdf.formats.title.title     : [ "" "%{title}" "" ]
+// pdf.formats.title.subtitle  : [ "" "%{subtitle}" "" ]
+// pdf.formats.title.footer    : [ "" "" "%{page}" ]
+
+pdf.fontdir : [ "/System/Library/Fonts", "/Library/Fonts", "~/Library/Fonts" ]
+
+// Map all required roles to the “sans” family
+pdf.fonts.title          : "sans bold 24"
+pdf.fonts.subtitle       : "sans italic 20"
+pdf.fonts.text           : "sans 12"
+pdf.fonts.label          : "sans italic 10; color=grey60"
+pdf.fonts.chord          : "sans bold 10"
+pdf.fonts.comment        : "sans italic 9"
+pdf.fonts.comment_italic : "sans italic 9"
+pdf.fonts.footer         : "sans italic 8"
+pdf.fonts.comment_box    : "sans bold italic 12; background=none; frame=0; color=black"
+
+
+// --- Misc ---
+user.name     : "Chris"
+user.fullname : "Chris Pfohl"
