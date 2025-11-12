@@ -25,29 +25,6 @@ pdf.fontconfig {
     }
 }
 
-// "fonts" associates output elements to font families as defined in
-// "fontconfig" above.
-
-pdf.fonts {
-    title          : "serif bold 14"
-    subtitle       : "serif 11"
-    text           : "serif 12"
-    chord          : "sans italic 10"
-    comment_italic : "sans italic 12"
-    tab            : "monospace 10"
-    toc            : "serif 11"
-    grid           : "sans 10"
-    chordfingers   : "dingbats 10"
-    comment {
-        description  : "sans 12"
-        background   : #E5E5E5
-    }
-    comment_box {
-        description  : "sans 12"
-        frame        : 1
-    }
-}
-
 pdf.songbook.align-songs : false
 
 pdf.capoheading : "%{capo|Capo: %{}}"
