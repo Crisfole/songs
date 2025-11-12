@@ -1,16 +1,5 @@
-// === User Fakebook Config for ChordPro ===
-// Clean two-column printable layout with Avenir fonts.
+include : [ modern1 ]
 
-config.type     : config
-config.title    : "User Fakebook Config"
-config.description     : "Readable two-column PDF output for chord sheets."
-
-instrument.type : "guitar"
-
-// --- General ---
-settings.strict  : true
-settings.columns : 1
-settings.titles  : center
 diagrams.show    : none
 
 // --- Custom slash-chord fixes ---
@@ -24,46 +13,53 @@ chords : [
     { name: "E/G#", frets: [ 4 x 2 4 0 0 ] }
 ]
 
-// --- PDF layout ---
-pdf.columnspace     : 18
-pdf.margintop       : 100
-pdf.marginbottom    : 42
-pdf.marginleft      : 36
-pdf.marginright     : 36
-pdf.headspace       : 64
-pdf.footspace       : 24
+pdf.fontdir : [ "./config/fonts" ]
+
+// "fontconfig" maps members of font families to font files.
+pdf.fontconfig {
+    "sans, sans-serif" {
+        ""         : Poppins-ExtraLight.ttf
+        bold       : Poppins-Medium.ttf
+        bolditalic : Poppins-MediumItalic.ttf
+        italic     : Poppins-ExtraLightItalic.ttf
+    }
+}
+
+// "fonts" associates output elements to font families as defined in
+// "fontconfig" above.
+
+pdf.fonts {
+    title          : "serif bold 14"
+    subtitle       : "serif 11"
+    text           : "serif 12"
+    chord          : "sans italic 10"
+    comment_italic : "sans italic 12"
+    tab            : "monospace 10"
+    toc            : "serif 11"
+    grid           : "sans 10"
+    chordfingers   : "dingbats 10"
+    comment {
+        description  : "sans 12"
+        background   : #E5E5E5
+    }
+    comment_box {
+        description  : "sans 12"
+        frame        : 1
+    }
+}
+
+pdf.songbook.align-songs : false
+
+pdf.capoheading : "%{capo|Capo: %{}}"
+
+pdf.chorus.recall.quote : true
+pdf.chorus.bar.width : 0
+pdf.chorus.indent : 0
 
 pdf.spacing.title   : 1.5
-pdf.spacing.lyrics  : 1.4
-pdf.spacing.chords  : 1.0
+pdf.spacing.lyrics  : 1.7
+pdf.spacing.chords  : 1.1
 pdf.spacing.empty   : 0.6
 
-// Enable both a sidebar and a label.
-pdf.chorus.tag : "Chorus"
-pdf.chorus.bar.width  : 0
-pdf.chorus.recall.quote      : true
-
-// // --- Page headers/footers ---
-// pdf.formats.default.title   : [ "" "" "" ]
-// pdf.formats.default.footer  : [ "%{title}" "" "%{page}" ]
-// pdf.formats.title.title     : [ "" "%{title}" "" ]
-// pdf.formats.title.subtitle  : [ "" "%{subtitle}" "" ]
-// pdf.formats.title.footer    : [ "" "" "%{page}" ]
-
-pdf.fontdir : [ "/System/Library/Fonts", "/Library/Fonts", "~/Library/Fonts" ]
-
-// Map all required roles to the “sans” family
-pdf.fonts.title          : "sans bold 24"
-pdf.fonts.subtitle       : "sans italic 20"
-pdf.fonts.text           : "sans 12"
-pdf.fonts.label          : "sans italic 10; color=grey60"
-pdf.fonts.chord          : "sans bold 10"
-pdf.fonts.comment        : "sans italic 9"
-pdf.fonts.comment_italic : "sans italic 9"
-pdf.fonts.footer         : "sans italic 8"
-pdf.fonts.comment_box    : "sans bold italic 12; background=none; frame=0; color=black"
-
-
-// --- Misc ---
-user.name     : "Chris"
-user.fullname : "Chris Pfohl"
+pdf.fonts.chord : "sans bold 9"
+pdf.fonts.label : "sans italic 10; color=grey60"
