@@ -4,12 +4,12 @@
 ../long-expected-jesus.cho
 ../hear-what-i-hear.cho
 ../first-noel.cho
-../first-noel.cho --meta piano=1
+../first-noel.cho --config=keyboard
 ../god-rest-ye.cho
 # Consider Re-keying Go Tell it on the mountain...
 ../tell-it-mountain.cho
 ../herald-angels-sing.cho
-../herald-angels-sing.cho --meta piano=1
+../herald-angels-sing.cho --config=keyboard
 ../midnight-clear.cho
 ../midnight-clear-sixpence.cho
 ../joy-to-world.cho

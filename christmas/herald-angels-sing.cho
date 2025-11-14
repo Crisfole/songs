@@ -1,14 +1,11 @@
 {title: Hark the Herald Angels Sing}
-{title-piano: Piano}
+{title-keyboard: Piano}
 
 {columns: 2}
 
 {capo-guitar: 2}
-
-{key-guitar: D}
-{key-piano: E}
-
-{transpose-piano: +2}
+{key: D}
+{transpose-keyboard: +2}
 
 {start_of_verse label="Verse 1"}
 

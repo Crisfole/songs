@@ -1,0 +1,3 @@
+include : [ ./chordpro.json ]
+
+instrument.type : keyboard
