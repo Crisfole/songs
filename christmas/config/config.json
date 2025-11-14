@@ -5,6 +5,7 @@ include : [ modern1 ]
 instrument.type : guitar
 
 diagrams.show : none
+settings.truesf : true
 
 // --- Custom slash-chord fixes ---
 chords : [

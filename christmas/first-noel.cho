@@ -1,11 +1,9 @@
 {title: The First Noel}
-{title-piano: Piano}
+{title-keyboard: Piano}
 
-{capo-guitar: 3}
-{key-guitar: A}
-{key-piano: C}
-
-{transpose-piano: +3}
+{capo-guitar: 1}
+{key: A}
+{transpose-keyboard: -11}
 
 [A2] [E] [D2] [A2]
 
@@ -14,13 +12,13 @@
 The [A2]first No[E]el, the [D2]angel did [A2]say
 was to [D2]certain poor [A2]shepherds, in [Bm]fields as [Bm/E]they [A2]lay.
 In [F#m]fields where [E]they, lay [D2]keeping their [A2]sheep,
-on a [D2]cold winter's [A2]night that [Bm]was [Bm/E]so [A2]deep. [/A]  [/G#]
+on a [D2]cold winter's [A2]night that [Bm]was [Bm/E]so [A2]deep.
 
 {end_of_verse}
 
 {start_of_chorus label="Chorus"}
 
-No[F#m]el, No[E]el, No[D2]el, No[A2][E]el.
+[/A]N[/G#]o[F#m]el, No[E]el, No[D2]el, No[A2][E]el.
 [F#m]Born is the [E]King of [Bm]Is[D2]ra[A2]el.
 
 {end_of_chorus}
