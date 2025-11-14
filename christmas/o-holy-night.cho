@@ -1,29 +1,34 @@
 {title: O Holy Night}
+{title-keyboard: Piano}
+
+{capo-guitar: 2}
+{key G}
+{transpose-keyboard: +2}
 
 {start_of_verse label="Verse 1"}
 
-O holy night, the stars are brightly shining;
-it is the night of the dear Savior’s birth.
-Long lay the world in sin and error pining,
-till He appeared and the soul felt its worth.
-A thrill of hope, the weary world rejoices,
-for yonder breaks a new and glorious morn!
-Fall on your knees! O hear the angel voices!
-O night divine! O night when Christ was born!
-O night divine! O night, O night divine!
+[G]Oh holy night, the [C]stars are brightly [G]shining;
+[G]it is the night of the [D]dear Savior’s [G]birth.  [D]
+[G]Long lay the world in [C]sin and error [G]pining,
+till He [Bm]appeared and the [F#7]soul felt its [Bm]worth.
+A [D]thrill of hope, the [G]weary world rejoices,
+for [D]yonder breaks a [G]new and glorious [G]morn! [/F#]
+[Em]Fall on your [Bm]knees! Oh [Am]hear the angel [Em]voices!
+[/F#]Oh [G]ni-[D]ight di[Em]vi-[C]ine! Oh [G]night [D] when Christ was [G]born!
+[G]Oh [D]night div[Em]i-[C]ine! Oh holy [G]night. [D] Oh night divine!
 
 {end_of_verse}
 
 {start_of_verse label="Verse 2"}
 
-Truly He taught us to love one another;
-His law is love and His gospel is peace.
-Chains shall He break, for the slave is our brother,
-and in His name all oppression shall cease.
-Sweet hymns of joy in grateful chorus raise we,
-let all within us praise His holy name.
-Christ is the Lord! O praise His name forever!
-His pow'r and glory evermore proclaim!
-His pow'r and glory evermore proclaim!
+[G]Truly He taught us to [C]love one a[G]nother;
+[G]His law is love and His [D]gospel is [G]peace.  [D]
+[G]Chains shall He break, for the [C]slave is our [G]brother,
+and in [Bm]His name all op[F#7]pression shall [Bm]cease.
+Sweet [D]hymns of joy in [G]grateful chorus raise we,
+let [D]all within us [G]praise His holy [G]name! [/F#]
+[Em]Christ is the [Bm]Lord! Oh [Am]praise His name for[Em]ever!
+[/F#]His [G]po[D]wer and [Em]glo-[C]ory [G]e[D]-evermore  pro[G]claim!
+[G]His [D]pow’r and [G]glo-[C]o-o-ory [G]e-[D]ev-ermore pro[G]claim!
 
 {end_of_verse}

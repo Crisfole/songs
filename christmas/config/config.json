@@ -44,6 +44,8 @@ contents : [
 ]
 pdf.songbook.align-songs : false
 
+pdf.columnspace : 10
+
 pdf.labels.comment: comment_italic
 
 pdf.chorus.recall.quote : true
@@ -55,6 +57,7 @@ pdf.spacing.lyrics  : 1.7
 pdf.spacing.chords  : 1.1
 pdf.spacing.empty   : 0.6
 
+pdf.fonts.title : "sans 24"
 pdf.fonts.text : "sans 10"
 pdf.fonts.chord : "sans bold 9"
 pdf.fonts.comment_italic.size : 8
