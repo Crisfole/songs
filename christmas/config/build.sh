@@ -2,4 +2,4 @@
 
 cd "$(dirname -- "${BASH_SOURCE[0]}")/.."
 
-chordpro --config=./config/chordpro.json --filelist ./config/songbook.chordpro --output ./config/songbook.pdf
+chordpro --config=./config/config.json --filelist ./config/songbook.chordpro --output ./config/songbook.pdf
