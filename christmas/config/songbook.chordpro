@@ -6,7 +6,6 @@
 ../first-noel.cho
 ../first-noel.cho --config=keyboard
 ../god-rest-ye.cho
-# Consider Re-keying Go Tell it on the mountain...
 ../tell-it-mountain.cho
 ../herald-angels-sing.cho
 ../herald-angels-sing.cho --config=keyboard
@@ -14,8 +13,11 @@
 ../midnight-clear-sixpence.cho
 ../joy-to-world.cho
 ../little-drummer-boy.cho
+../little-drummer-boy.cho --config=keyboard
 ../mary-did-you-know.cho
+../mary-did-you-know.cho --config=keyboard
 ../o-come-faithful.cho
+# TODO
 ../o-come-emmanuel.cho
 ../o-holy-night.cho
 ../little-town-bethlehem.cho

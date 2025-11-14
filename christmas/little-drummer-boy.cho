@@ -1,40 +1,46 @@
 {title: Little Drummer Boy}
+{title-keyboard: Piano}
+
+{capo-guitar: 1}
+{key: E}
+{transpose-keyboard: -11}
+
+[E] [E] [E]
 
 {start_of_verse label="Verse 1"}
 
-Come, they told me, pa rum pum pum pum
-A newborn King to see, pa rum pum pum pum
-Our finest gifts we bring, pa rum pum pum pum
-To lay before the King, pa rum pum pum pum
-Rum pum pum pum, rum pum pum pum.
-So to honour Him, pa rum pum pum pum
-When we come.
+[E]Come, they told me, pa [A]rum pum pum [E]pum [E]
+[E]A newborn King to see, pa [A]rum pum pum [E]pum [E]
+[B]Our finest gifts we bring, pa rum pum pum pum
+[B]To lay be[E]fore the King, pa [A]rum pum pum pum
+[E]Rum pum pum pum, [B]rum pum pum pum.
+[E]So to honour Him, pa [A]rum pum pum [E]pum [E]
+[B]When we [E]come. [E]
 
 {end_of_verse}
 
 {start_of_verse label="Verse 2"}
 
-Little baby, pa rum pum pum pum
-I am a poor boy too, pa rum pum pum pum
-I have no gift to bring, pa rum pum pum pum
-That’s fit to give a King, pa rum pum pum pum
-Rum pum pum pum, rum pum pum pum.
-Shall I play for you, pa rum pum pum pum
-On my drum?
+[E]Little baby, pa [A]rum pum pum [E]pum [E]
+[E]I am a poor boy too, pa [A]rum pum pum [E]pum [E]
+[B]I have no gift to bring, pa rum pum pum pum
+[B]That’s fit to [E]give a King, pa [A]rum pum pum pum
+[E]Rum pum pum pum, [B]rum pum pum pum.
+[E]Shall I play for you, pa [A]rum pum pum [E]pum [E]
+[B]On my [E]drum? [E]
 
 {end_of_verse}
 
 {start_of_verse label="Verse 3"}
 
-Mary nodded, pa rum pum pum pum
-The ox and lamb kept time, pa rum pum pum pum
-I played my drum for Him, pa rum pum pum pum
-I played my best for Him, pa rum pum pum pum
-Rum pum pum pum, rum pum pum pum.
-Then He smiled at me, pa rum pum pum pum,
-Me and my drum
-Me and my drum
-Me and my drum
-Me and my drum
+[E]Mary nodded, pa [A]rum pum pum [E]pum [E]
+[E]The ox and lamb kept time, pa [A]rum pum pum [E]pum [E]
+[B]I played my drum for Him, pa rum pum pum pum
+[B]I played my [E]best for Him, pa [A]rum pum pum pum
+[E]Rum pum pum pum, [B]rum pum pum pum.
+[E]Then He smiled at me, pa [A]rum pum pum [E]pum [E]
+[B]Me and my [E]drum [E]
+
+{comment: Repeat Last Line x 3}
 
 {end_of_verse}
