@@ -35,13 +35,14 @@ pdf.formats.title.subtitle : [ "", "", "%{capo|Capo: %{}}" ]
 contents : [
   {
     fields   : [ songindex ]
-    label    : "Table of Contents"
+    label    : "Christmas Songs (for Piano and Guitar)"
     line     : "%{title}"
     pageno   : "%{page}"
     omit     : false
     template : stdtoc
   }
 ]
+
 pdf.songbook.align-songs : false
 
 pdf.columnspace : 10
