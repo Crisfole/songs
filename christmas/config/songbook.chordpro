@@ -21,6 +21,6 @@
 ../o-holy-night.cho
 ../little-town-bethlehem.cho
 ../silent-night.cho
-# TODO
 ../we-three-kings.cho
 ../what-child.cho
+../what-child.cho --config=keyboard
