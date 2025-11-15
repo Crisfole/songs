@@ -5,6 +5,8 @@
 {key: Am}
 {transpose-keyboard: +5}
 
+{columns 2}
+
 {start_of_verse label="Verse 1"}
 
 What [Am]Child is this, who, [G]laid to [Em]rest,
@@ -32,6 +34,8 @@ The [Am]cross be [F]borne for [E]me, for [E7]you.
 The [Am]Babe, the [E7]Son of [Am]Mary.
 
 {end_of_verse}
+
+{column_break}
 
 {start_of_verse label="Verse 3"}
 
