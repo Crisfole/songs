@@ -30,7 +30,7 @@ pdf.fontconfig {
     }
 }
 
-pdf.formats.title.subtitle : [ "", "", "%{capo|Capo: %{}}" ]
+pdf.formats.title.subtitle : [ "", "%{subtitle}", "%{capo|Capo: %{}}" ]
 
 contents : [
   {

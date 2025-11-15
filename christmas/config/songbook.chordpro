@@ -1,26 +1,27 @@
-../angels-realms-glory.cho
-../angels-on-high.cho
-../away-in-manger.cho
-../long-expected-jesus.cho
-../hear-what-i-hear.cho
-../first-noel.cho
-../first-noel.cho --config=keyboard
-../god-rest-ye.cho
-../tell-it-mountain.cho
-../herald-angels-sing.cho
-../herald-angels-sing.cho --config=keyboard
-../midnight-clear.cho
-../midnight-clear-sixpence.cho
-../joy-to-world.cho
-../little-drummer-boy.cho
-../little-drummer-boy.cho --config=keyboard
-../mary-did-you-know.cho
-../mary-did-you-know.cho --config=keyboard
-../o-come-faithful.cho
-../o-come-emmanuel.cho
-../o-holy-night.cho
-../little-town-bethlehem.cho
-../silent-night.cho
-../we-three-kings.cho
-../what-child.cho
-../what-child.cho --config=keyboard
+../hymns/angels-realms-glory.cho
+../hymns/angels-on-high.cho
+../hymns/away-in-manger.cho
+../hymns/long-expected-jesus.cho
+../hymns/hear-what-i-hear.cho
+../hymns/first-noel.cho
+../hymns/first-noel.cho --config=keyboard
+../hymns/god-rest-ye.cho
+../hymns/tell-it-mountain.cho
+../hymns/herald-angels-sing.cho
+../hymns/herald-angels-sing.cho --config=keyboard
+../hymns/midnight-clear.cho
+../hymns/midnight-clear-sixpence.cho
+../hymns/joy-to-world.cho
+../hymns/filler-luke-2.cho
+../hymns/little-drummer-boy.cho
+../hymns/little-drummer-boy.cho --config=keyboard
+../hymns/mary-did-you-know.cho
+../hymns/mary-did-you-know.cho --config=keyboard
+../hymns/o-come-faithful.cho
+../hymns/o-come-emmanuel.cho
+../hymns/o-holy-night.cho
+../hymns/little-town-bethlehem.cho
+../hymns/silent-night.cho
+../hymns/we-three-kings.cho
+../hymns/what-child.cho
+../hymns/what-child.cho --config=keyboard
