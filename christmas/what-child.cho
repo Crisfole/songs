@@ -1,41 +1,48 @@
 {title: What Child Is This?}
+{title: Piano}
+
+{capo-guitar: 5}
+{key: Am}
+{transpose-keyboard: +5}
 
 {start_of_verse label="Verse 1"}
 
-What Child is this, who, laid to rest,
-On Mary's lap is sleeping?
-Whom angels greet with anthems sweet,
-While shepherds watch are keeping?
+What [Am]Child is this, who, [G]laid to [Em]rest,
+On [Am]Mary's lap is [E]slee[E7]ping?
+Whom [Am]angels greet with [G]anthems [Em]sweet,
+While [F]shepherds [E]watch are [Am]keeping?
+
+[C]This, this is [G]Christ, the [Em]King,
+Whom [Am]shepherds [F]guard and [E]angels [E7]sing:
+[C]Haste, haste to [G]bring Him [Em]laud,
+The [Am]Babe, the [E7]Son of [Am]Mary!
 
 {end_of_verse}
-
-{start_of_chorus label="Chorus"}
-
-This, this is Christ, the King,
-Whom shepherds guard and angels sing:
-Haste, haste to bring Him laud,
-The Babe, the Son of Mary!
-
-{end_of_chorus}
 
 {start_of_verse label="Verse 2"}
 
-Why lies He in such mean estate,
-Where ox and ass are feeding?
-Good Christian, fear: for sinners here
-The silent Word is pleading.
+Why [Am]lies He in such [G]mean es[Em]tate,
+Where [Am]ox and ass are [E]feed[E7]ing?
+Good [Am]Christians, fear, for [G]sinners [Em]here
+The [F]silent [E]Word is [Am]pleading.
+
+[C]Nails, spear shall [G]pierce Him [Em]through,
+The [Am]cross be [F]borne for [E]me, for [E7]you.
+[C]Hail, hail the [G]Word made [Em]flesh,
+The [Am]Babe, the [E7]Son of [Am]Mary.
 
 {end_of_verse}
-
-{chorus}
 
 {start_of_verse label="Verse 3"}
 
-So bring Him incense, gold, and myrrh,
-Come, peasant, king to own Him.
-The King of kings salvation brings;
-Let loving hearts enthrone Him.
+So [Am]bring Him incense, [G]gold and [Em]myrrh,
+Come [Am]peasant, king to [E]own [E7]Him;
+The [Am]King of kings sal[G]vation [Em]brings,
+Let [F]loving [E]hearts en[Am]throne Him.
+
+[C]Raise, raise a [G]song on [Em]high,
+The [Am]virgin [F]sings her [E]lulla[E7]by.
+[C]Joy, joy for [G]Christ is [Em]born,
+The [Am]Babe, the [E7]Son of [Am]Mary.
 
 {end_of_verse}
-
-{chorus}

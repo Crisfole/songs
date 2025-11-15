@@ -1,29 +1,32 @@
 {title: We Three Kings}
 
+{columns 2}
+
 {start_of_verse label="Verse 1"}
 
-We three kings of Orient are;
-bearing gifts we traverse afar,
-field and fountain, moor and mountain,
-following yonder star.
+[Em]We three kings of [B7]Orient [Em]are;
+[Em]bearing gifts we [B7]traverse [Em]afar,
+[G]field and [Am]fountain, [G/B]moor and [C]mountain,
+[Am]following [Em]yon[B7]der [Em]star.
 
 {end_of_verse}
 
 {start_of_chorus label="Refrain"}
 
-O star of wonder, star of light,
-star with royal beauty bright,
-westward leading, still proceeding,
-guide us to thy perfect light.
+[D]Ohh-[D7]oooh,
+[G]Star of wonder, [C]star of [G]night,
+[G]star with royal [C]beauty [G]bright,
+[Em]westward [D]leading, [C]still [D]proceeding,
+[Em]guide us to thy [C]perfect [G]light.
 
 {end_of_chorus}
 
 {start_of_verse label="Verse 2"}
 
-Born a King on Bethlehem's plain,
-gold I bring to crown him again,
-King forever, ceasing never,
-over us all to reign.
+[Em]Born a King on [B7]Bethlehem’s [Em]plain,
+[Em]gold I bring to [B7]crown Him a[Em]gain,
+[G]King for[Am]ever, [G/B]ceasing [C]never,
+[Am]over us [Em]all [B7]to re[Em]ign.
 
 {end_of_verse}
 
@@ -31,10 +34,10 @@ over us all to reign.
 
 {start_of_verse label="Verse 3"}
 
-Frankincense to offer have I;
-incense owns a Deity nigh;
-prayer and praising, voices raising,
-worshiping God on high.
+[Em]Frankincense to [B7]offer have [Em]I;
+[Em]incense owns a [B7]Deity [Em]nigh;
+[G]prayer and [Am]praising, [G/B]voices [C]raising,
+[Am]worshiping [Em]God [B7]on high[Em].
 
 {end_of_verse}
 
@@ -42,10 +45,10 @@ worshiping God on high.
 
 {start_of_verse label="Verse 4"}
 
-Myrrh is mine; its bitter perfume
-breathes a life of gathering gloom;
-sorrowing, sighing, bleeding, dying,
-sealed in the stone-cold tomb.
+[Em]Myrrh is mine; its [B7]bitter per[Em]fume
+[Em]breathes a life of [B7]gath’ring [Em]gloom;
+[G]sorrowing, [Am]sighing, [G/B]bleeding, [C]dying,
+[Am]sealed in the [Em]stone [B7]cold [Em]tomb.
 
 {end_of_verse}
 
@@ -53,11 +56,11 @@ sealed in the stone-cold tomb.
 
 {start_of_verse label="Verse 5"}
 
-Glorious now behold him arise;
-King and God and sacrifice:
-Alleluia, Alleluia,
-sounds through the earth and skies.
+[Em]Glorious now be[B7]hold Him a[Em]rise;
+[Em]King and God and [B7]sacri[Em]fice;
+[G]Alle[Am]luia, [G/B]Alle[C]luia,
+[Am]sounds through the [Em]earth [B7]and [Em]skies.
 
 {end_of_verse}
 
-{chorus}
+{comment: Refrain one last time}
