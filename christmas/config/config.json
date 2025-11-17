@@ -16,6 +16,9 @@ chords : [
     { name: "Bm/E", frets: [ 0 2 4 4 3 2 ] }
     { name: "Bm/D", frets: [ x 5 4 4 3 2 ] }
     { name: "E/G#", frets: [ 4 x 2 4 0 0 ] }
+    { name: "F6/D", frets: [ x x 0 2 1 1 ] }
+    { name: "C/E", frets: [ x x 2 0 1 0 ] }
+    { name: "Dm6/B", frets: [ x 2 3 2 3 x ] }
 ]
 
 pdf.fontdir : [ "./config/fonts" ]
