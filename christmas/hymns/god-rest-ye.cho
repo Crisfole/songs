@@ -1,10 +1,15 @@
 {title: God Rest Ye Merry Gentlemen}
 
+{columns: 2}
+
 {start_of_verse label="Verse 1"}
 
-[Em]God rest ye merry gentlemen let [C]nothing you dis[B7]may
-[Em]Remember Christ our Savior was [C]born on Christmas [B7]Day
-To [C]save us all from [G]Satan's pow'r when [Em]we were gone a[D]stray [D]
+[Em]God rest ye merry gentlemen
+    let [C]nothing you dis[B7]may
+[Em]Remember Christ our Savior
+    was [C]born on Christmas [B7]Day
+To [C]save us all from [G]Satan's pow'r
+    when [Em]we were gone a[D]stray [D]
 
 {end_of_verse}
 
@@ -17,24 +22,41 @@ Oh [G]tidings of [B7]comfort and [Em]joy   [C]   [B7]
 
 {start_of_verse label="Verse 2"}
 
-In [Em]Bethlehem, in Israel this [C]blessed Babe was [B7]born
-And [Em]laid within a manger up[C]on this blessed [B7]morn
-To [C]which His Mother [G]Mary did [Em]nothing take in [D]scorn [D]
+In [Em]Bethlehem, in Israel
+    this [C]blessed Babe was [B7]born
+And [Em]laid within a manger
+    up[C]on this blessed [B7]morn
+To [C]which His Mother [G]Mary
+    did [Em]nothing take in [D]scorn [D]
 
 {end_of_verse}
+
+{chorus}
+
+{column_break}
 
 {start_of_verse label="Verse 3"}
 
-From [Em]God our heavenly Father a [C]blessed angel [B7]came
-And [Em]unto certain shepherds brought [C]tidings of the [B7]same
-How [C]that in Bethle[G]hem was born the [Em]Son of God by [D]name [D]
+From [Em]God our heavenly Father
+    a [C]blessed angel [B7]came
+And [Em]unto certain shepherds
+    brought [C]tidings of the [B7]same
+How [C]that in Bethle[G]hem was born
+    the [Em]Son of God by [D]name [D]
 
 {end_of_verse}
+
+{chorus}
 
 {start_of_verse label="Verse 4"}
 
-Fear [Em]not then, said the Angel let [C]nothing you af[B7]fright
-This [Em]day is born a Savior of [C]a pure Virgin [B7]bright
-To [C]free all those who [G]trust in Him from [Em]Satan's pow'r and [D]might [D]
+Fear [Em]not then, said the Angel
+    let [C]nothing you af[B7]fright
+This [Em]day is born a Savior
+    of [C]a pure Virgin [B7]bright
+To [C]free all those who [G]trust in Him
+    from [Em]Satan's pow'r and [D]might [D]
 
 {end_of_verse}
+
+{chorus}
