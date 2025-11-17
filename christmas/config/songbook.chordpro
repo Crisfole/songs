@@ -17,9 +17,11 @@
 ../hymns/little-drummer-boy.cho --config=keyboard
 ../hymns/mary-did-you-know.cho
 ../hymns/mary-did-you-know.cho --config=keyboard
+../hymns/filler-luke-1.cho
 ../hymns/o-come-faithful.cho
 ../hymns/o-come-emmanuel.cho
 ../hymns/o-holy-night.cho
+../hymns/o-holy-night.cho --config=keyboard
 ../hymns/little-town-bethlehem.cho
 ../hymns/silent-night.cho
 ../hymns/we-three-kings.cho
