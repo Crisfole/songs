@@ -1,0 +1,48 @@
+{title: Deck the Halls}
+
+{columns: 2}
+
+{start_of_verse label="Verse 1"}
+
+[D]Deck the halls with boughs of holly
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[D]'Tis the season to be jolly
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[A7]Don we now our [D]gay apparel
+[D]Fa-la-la, [G]la-la-la, [A7]la-la-la
+[D]Toll the ancient Yule-tide carol
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+
+{end_of_verse}
+
+{start_of_verse label="Verse 2"}
+
+[D]See the blazing Yule before us
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[D]Strike the harp and join the chorus
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[A7]Follow me in [D]merry measure
+[D]Fa-la-la, [G]la-la-la, [A7]la-la-la
+[D]While I tell of Yule-tide treasure
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+
+{end_of_verse}
+
+{column_break}
+
+{start_of_verse label="Verse 3"}
+
+[D]Fast away the old year passes
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[D]Hail the new year, lads and lasses
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+[A7]Sing we joyous, [D]all together
+[D]Fa-la-la, [G]la-la-la, [A7]la-la-la
+[D]Heedless of the wind and weather
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
+
+{end_of_verse}
+
+{comment: Slowly}
+
+[G]Fa-la-la-la-[D]laah, la-[A7]la-la-[D]la
