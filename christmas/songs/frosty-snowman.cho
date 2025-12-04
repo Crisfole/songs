@@ -1,6 +1,7 @@
 {title: Frosty the Snowman}
 
 {capo-guitar: 1}
+{columns: 2}
 
 {start_of_verse label="Verse 1"}
 
@@ -32,6 +33,8 @@ Just the [E]same as you and [A]me
 Over the hills of [A]snow
 
 {end_of_chorus}
+
+{column_break}
 
 {start_of_verse label="Verse 2"}
 
