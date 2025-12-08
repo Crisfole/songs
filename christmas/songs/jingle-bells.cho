@@ -1,5 +1,7 @@
 {title: Jingle Bells}
 
+{columns: 2}
+
 {start_of_verse label="Verse 1"}
 
 [D]Dashing through the snow, in a one horse open [G]sleigh
@@ -30,6 +32,8 @@
 [A7]Ohhh
 
 {end_of_verse}
+
+{column_break}
 
 {chorus}
 
