@@ -1,7 +1,11 @@
 {title: Frosty the Snowman}
+{title-keyboard: Piano}
+
+{columns: 2}
 
 {capo-guitar: 1}
-{columns: 2}
+{key: A}
+{transpose-keyboard: -11}
 
 {start_of_verse label="Verse 1"}
 

@@ -30,6 +30,7 @@
 ../songs/christmas-song.cho
 ../songs/deck-the-halls.cho
 ../songs/frosty-snowman.cho
+../songs/frosty-snowman.cho --config=keyboard
 ../songs/here-we-come.cho
 ../songs/jingle-bells.cho
 ../songs/let-it-snow.cho
@@ -40,4 +41,5 @@
 ../songs/sleigh-ride.cho
 ../songs/the-rebel-jesus.cho
 ../songs/winter-wonderland.cho
+../songs/winter-wonderland.cho --config=keyboard
 ../songs/wish-merry-christmas.cho

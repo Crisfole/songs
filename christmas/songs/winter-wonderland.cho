@@ -1,8 +1,11 @@
 {title: Winter Wonderland}
-
-{capo-guitar: 1}
+{title-keyboard: Piano}
 
 {columns: 2}
+
+{capo-guitar: 1}
+{key: A}
+{transpose-keyboard: -11}
 
 {start_of_verse label="Verse 1"}
 
