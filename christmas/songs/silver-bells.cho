@@ -1,0 +1,42 @@
+{title: Silver Bells}
+{title-keyboard: Piano}
+
+{capo-guitar: 1}
+{key: A}
+{transpose-keyboard: +1}
+
+{start_of_verse label="Verse 1"}
+
+[A2]City sidewalks, busy sidewalks
+Dressed in [D2]holiday [Bm]style
+In the [E]air there's a [E7]feeling
+Of [A2]Christmas [E] [/F#]
+[/G#]Children [A2]laughing, people passing
+Meeting [D2]smile after [Bm]smile
+And on [E]every street [E7]corner you'll [A2]hear [E] [/F#][/G#]
+
+{end_of_verse}
+
+{start_of_chorus label="Chorus"}
+
+[A2]Silver bells (silver bells)
+[D2]Silver bells [Bm](silver bells)
+[E]It's Christmas [E7]time in the [A]city [E] [/F#][/G#]
+[A2]Ring-a-ling (Ring-a-ling)
+[D2]Hear them ring [Bm](hear them ring)
+[E]Soon it will [E7]be Christmas [A2]Day
+
+{end_of_chorus}
+
+{start_of_verse label="Verse 2"}
+
+[A2]Strings of streetlights, even stoplights
+Blink of [D2]bright red and [Bm]green
+As the [E]shoppers rush [E7]home with their [A2]treasures [E] [/F#]
+[/G#]Hear the [A2]snow crunch
+See the kids bunch, this is [D2]Santa’s big [Bm]scene
+And a[E]bove all the [E7]bustle you'll [A2]hear [E] [/F#][/G#]
+
+{end_of_verse}
+
+{chorus}

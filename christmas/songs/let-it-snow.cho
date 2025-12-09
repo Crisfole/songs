@@ -1,10 +1,11 @@
 {title: Let it Snow}
+{title-keyboard: Piano}
 
 {columns: 2}
 
-{capo-guitar: 3}
+{capo-guitar: 5}
 {key: C}
-{transpose-keyboard: +3}
+{transpose-keyboard: +5}
 
 {start_of_verse label="Verse 1"}
 
