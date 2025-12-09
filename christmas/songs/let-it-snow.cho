@@ -2,9 +2,9 @@
 
 {columns: 2}
 
-{capo-guitar: 1}
+{capo-guitar: 3}
 {key: C}
-{transpose-keyboard: +1}
+{transpose-keyboard: +3}
 
 {start_of_verse label="Verse 1"}
 

@@ -35,6 +35,7 @@
 ../songs/here-we-come.cho
 ../songs/jingle-bells.cho
 ../songs/let-it-snow.cho
+../songs/let-it-snow.cho --config=keyboard
 ../songs/look-a-lot-like-christmas.cho
 ../songs/merry-little-christmas.cho
 ../songs/santa-clause-coming.cho
