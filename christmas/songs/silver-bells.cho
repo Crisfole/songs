@@ -1,6 +1,8 @@
 {title: Silver Bells}
 {title-keyboard: Piano}
 
+{columns: 2}
+
 {capo-guitar: 1}
 {key: A}
 {transpose-keyboard: +1}
@@ -27,6 +29,8 @@ And on [E]every street [E7]corner you'll [A2]hear [E] [/F#][/G#]
 [E]Soon it will [E7]be Christmas [A2]Day
 
 {end_of_chorus}
+
+{column_break}
 
 {start_of_verse label="Verse 2"}
 

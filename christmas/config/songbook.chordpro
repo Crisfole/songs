@@ -19,9 +19,9 @@
 ../hymns/mary-did-you-know.cho --config=keyboard
 ../hymns/filler-luke-1.cho
 ../hymns/o-come-faithful.cho
-../hymns/o-come-emmanuel.cho
 ../hymns/o-holy-night.cho
 ../hymns/o-holy-night.cho --config=keyboard
+../hymns/o-come-emmanuel.cho
 ../hymns/little-town-bethlehem.cho
 ../hymns/silent-night.cho
 ../hymns/we-three-kings.cho
@@ -33,11 +33,10 @@
 ../songs/frosty-snowman.cho --config=keyboard
 ../songs/gloucestershire-wassail.cho
 ../songs/here-we-come.cho
-../songs/jingle-bells.cho
 ../songs/let-it-snow.cho
 ../songs/let-it-snow.cho --config=keyboard
 ../songs/look-a-lot-like-christmas.cho
-../songs/merry-little-christmas.cho
+# ../songs/merry-little-christmas.cho
 ../songs/santa-clause-coming.cho
 ../songs/silver-bells.cho
 ../songs/silver-bells.cho --config=keyboard
@@ -46,3 +45,4 @@
 ../songs/winter-wonderland.cho
 ../songs/winter-wonderland.cho --config=keyboard
 ../songs/wish-merry-christmas.cho
+../songs/jingle-bells.cho
